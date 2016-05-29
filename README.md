@@ -3,6 +3,7 @@
 
 ###Getting Started###
 
+This is a simple application based on ReactJs.
 There are two methods for getting started with this repo.
 
 ####Familiar with Git?#####
